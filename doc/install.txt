@@ -1,0 +1,16 @@
+Write permissions on folders (do not apply recursively/to subfolders):
+/config
+/tools/smarty/compile
+/tools/smarty/cache
+/tools/smarty_v2/compile
+/tools/smarty_v2/cache
+/sitemap.xml
+Write permissions on folders and subfolders/recursively:
+/img
+/mails
+/modules
+/themes/prestashop/lang
+/themes/prestashop/cache
+/translations
+/upload
+/download

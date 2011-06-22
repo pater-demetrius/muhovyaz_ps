@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>blocktopmenu</name>
+	<displayName>Top horizontal menu</displayName>
+	<version>1.3</version>
+	<description>Add a new menu on top of your shop.</description>
+	<author></author>
+	<tab>Julien Breux Developpement</tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>

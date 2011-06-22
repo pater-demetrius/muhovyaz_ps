@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>localizator</name>
+	<displayName>ÐÐ¾ÐºÐ°Ð»Ð¸Ð·Ð°ÑÐ¾Ñ</displayName>
+	<version>1.0</version>
+	<description>ÐÐ¾Ð±Ð°Ð²Ð»ÑÐµÑ Ð»Ð¾ÐºÐ°Ð»ÑÐ½ÑÐµ Ð½Ð°ÑÑÑÐ¾Ð¹ÐºÐ¸</description>
+	<author></author>
+	<tab>others</tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>

@@ -1,0 +1,8 @@
+.DS_Store
+.bundle
+.idea
+Thumbs.db
+src/tools/smarty/cache/*.tpl.php
+src/tools/smarty/compile/*.tpl.php
+src/tools/smarty_v2/cache/*.tpl.php
+src/tools/smarty_v2/compile/*.tpl.php

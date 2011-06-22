@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>maileditor</name>
+	<displayName>Ð ÐµÐ´Ð°ÐºÑÐ¾Ñ ÑÐ°Ð±Ð»Ð¾Ð½Ð¾Ð² Ð¿Ð¸ÑÐµÐ¼</displayName>
+	<version>1.0</version>
+	<description>Ð ÐµÐ´Ð°ÐºÑÐ¾Ñ ÑÐ°Ð±Ð»Ð¾Ð½Ð¾Ð² Ð¿Ð¸ÑÐµÐ¼.</description>
+	<author></author>
+	<tab>Tools</tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
