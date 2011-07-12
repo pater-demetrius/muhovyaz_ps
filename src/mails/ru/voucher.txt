@@ -1,11 +1,14 @@
-Здравствуйте, {firstname} {lastname},
+Hi {firstname} {lastname},
 
-Мы информируем Вас о создании купона скидок на Ваше имя при оформлении Вами заказа №{id_order}.
+This is to inform you about the creation of a voucher in your name as a result of your order #{id_order}.
 
-Код Вашего купона на скидки: {voucher_num}, на сумму {voucher_amount}.
+Here is the code of your voucher : {voucher_num}, to the amount of {voucher_amount}.
 
-Просто скопируйте / вставьте этот код в ходе процесса оформления Вашего следующего заказа.
+Simply copy/paste this code during the payment process for your next order.
 
-Благодарим вас за покупки в {shop_name}.
+Thank you for shopping at {shop_name}.
 
 {shop_name} - {shop_url}
+
+
+{shop_url} powered by PrestaShop™

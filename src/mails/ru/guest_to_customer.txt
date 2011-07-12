@@ -1,15 +1,16 @@
-Здравствуйте {firstname} {lastname},
-		
-Ваш гостевой аккаунт преобразован в аккаунт покупателя:
-	
-E-mail: {email}
-Пароль: {passwd}
-	
-	
-Вы можете войти в свой аккаунт на сайте: {shop_url}
+	Hi {firstname} {lastname},
 
-Будьте внимательны при совместном использовании этих данных. 
+	Your guest account has been transformed into a customer account:
+
+	E-mail address: {email}
+	Password: {passwd}
 
 
+	You can access your account on our website: {shop_url}
 
-{shop_name} - {shop_url}
+	Please be careful when sharing these login details with others.
+
+
+
+	{shop_url} powered by PrestaShop™
+

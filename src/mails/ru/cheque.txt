@@ -1,17 +1,21 @@
-Здравствуйте, {firstname} {lastname},
+Hi {firstname} {lastname},
 
-Ваш заказ №{order_name} был успешно оформлен. Заказ будет отправлен Вам после получения оплаты.
+Your order {order_name} has been placed successfully. Your order will be shipped as soon as payment is received.
 
-Вы выбрали способ оплаты чеком. Пожалуйста включите в Ваш чек:
+Please note that you have selected to pay by cheque. Please include on your cheque:
 
-- общая сумма {total_paid}
+- an amount of {total_paid}
 
-- оплачено {cheque_name}
+- payable to the order of {cheque_name}
 
-- отправить {cheque_address}
+- mail to {cheque_address}
 
-Вы можете скачать счет из раздела "История заказов" в Вашем аккаунте, кликнув "Мой аккаунт" на нашем сайте.
+You can review this order and download your invoice from the "Order history" section of your account by clicking "My account" on our Website.
+If you have guest account, you can follow your order at this page: {shop_url}guest-tracking.php
 
-Благодарим Вас за покупки в {shop_name}.
+Thank you for shopping at {shop_name}.
 
 {shop_name} - {shop_url}
+
+
+{shop_url} powered by PrestaShop™

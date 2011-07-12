@@ -1,7 +1,12 @@
-	Здравствуйте, {firstname} {lastname},
+	Hi {firstname} {lastname},
 
-	Оплата Вашего заказа возвращена.
+	Your order payment has been refunded.
 
-	Вы можете просмотреть этот заказ и скачать счет-фактуру в нашем интернет-магазине, нажав "Мои заказы".
+	You can review this order and download your invoice from the "Order history" section of your account by clicking "My account" on our Website.
+	If you have guest account, you can follow your order at this page: {shop_url}guest-tracking.php
 
 	{shop_name} - {shop_url}
+
+
+
+	{shop_url} powered by PrestaShop™

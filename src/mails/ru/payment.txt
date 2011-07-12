@@ -1,11 +1,13 @@
-	Здравствуйте, {firstname} {lastname},
+	Hi {firstname} {lastname},
 		
-	Ваш заказ №{id_order}
+	Your order #{id_order} history
 	
-	Оплата Вашего заказа была успешно получена.
+	Payment for your order was successfully processed.
 
-	Вы можете просмотреть этот заказ и скачать счет-фактуру в нашем интернет-магазине, нажав "Мои заказы".
-
-	Благодарим вас за покупки в {shop_name}.
+	You can review this order and download your invoice from the "Order history" section of your account by clicking "My account" on our Website.
 
 	{shop_name} - {shop_url}
+
+	Thank you for shopping with {shop_name}.
+
+	{shop_url} powered by PrestaShop™

@@ -1,8 +1,8 @@
-Здравствуйте, {firstname} {lastname},
+Hi {firstname} {lastname},
 
-Ваш заказ #{id_order} был успешно оформлен. Заказ будет отправлен Вам после получения оплаты.
+Your order #{id_order} has been placed successfully. Your order will be shipped as soon as payment is received.
 
-Вы выбрали способ оплаты банковским платежем. Пожалуйста отправьте платеж:
+Please note that you have selected to pay by bank wire. Please send your wire to:
 
 {bankwire_owner}
 
@@ -10,12 +10,14 @@
 
 {bankwire_address}
 
-Общая сумма заказа {total_paid}
+Order total amount is {total_paid}
 
-{shop_url}modules/bankform/form.php?id_order={id_order}
+You can review this order and download your invoice from the "Order history" section of your account by clicking "My account" on our Website.
+If you have guest account, you can follow your order at this page: {shop_url}guest-tracking.php
 
-Вы можете скачать счет из раздела "История заказов" в Вашем аккаунте, кликнув "Мой аккаунт" на нашем сайте.
-
-Благодарим Вас за покупки в {shop_name}.
+Thank you for shopping at {shop_name}.
 
 {shop_name} - {shop_url}
+
+
+{shop_url} powered by PrestaShop™

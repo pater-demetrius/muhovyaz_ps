@@ -3,10 +3,10 @@
 	<li>
 		<a href="{$product.link}">{$product.name}</a>
 		{if isset($product.deadline)}
-			окончание {$product.deadline}
+			expires on {$product.deadline}
 		{/if}
 		{if isset($product.downloadable)}
-			скачать {$product.downloadable} раз
+			downloadable {$product.downloadable} times
 		{/if}
 	</li>
 {/foreach}
