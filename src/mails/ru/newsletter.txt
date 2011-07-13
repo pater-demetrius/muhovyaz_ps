@@ -1,9 +1,8 @@
-Newsletter from {shop_name}
+Информационное письмо от {shop_name}
 
-Message
+Сообщение
 
 {message}
 
 
-
-{shop_url} powered by PrestaShop™
+{shop_url}

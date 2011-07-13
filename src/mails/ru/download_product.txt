@@ -1,11 +1,11 @@
-{firstname} {lastname}, thank you for your order on {shop_name}!
+Здравствуйте, {firstname} {lastname}.
+Благодарим вас за ваш заказ в {shop_name}!
 
-You have {nbProducts} product(s) to download.
+Теперь Вы можете загрузить товар(ы) {nbProducts}.
 
-Below are direct links to these products:
+Ниже - прямые ссылки на товар:
 {virtualProducts}
 
-You can review this order and download your invoice from the "Order history" section of your account by clicking "My account" on our Website. 
-If you have a guest account, you can follow your order at this page: {shop_url}guest-tracking.php?id_order={id_order}
+Вы можете просмотреть этот заказ и скачать счет-фактуру в нашем интернет-магазине, нажав "Мои заказы".
 
-{shop_url} powered by PrestaShop™
+{shop_name} - {shop_url}

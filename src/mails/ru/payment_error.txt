@@ -1,14 +1,8 @@
-Hi {firstname} {lastname},
+Здравствуйте, {firstname} {lastname},
 
-There is a problem with your payment for order #{id_order}. Please contact us at your earliest convenience.
+Возникла проблема с оплатой Вашего заказа №{id_order}. Пожалуйста обратитесь к нам как можно скорее.
 
-Your order will not be shipped until we have resolved this problem. 
+Ваш заказ не будет отправлен пока мы не решим эту проблему.
 
-You can review this order and download your invoice from the "Order history" section of your account by clicking "My account" on our Website.
-If you have guest account, you can follow your order at this page: {shop_url}guest-tracking.php
-
+Вы можете просмотреть этот заказ и скачать счет-фактуру в нашем интернет-магазине, нажав "Мои заказы".
 {shop_name} - {shop_url}
-
-
-
-{shop_url} powered by PrestaShop™

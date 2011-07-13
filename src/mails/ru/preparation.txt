@@ -1,14 +1,9 @@
-	Hi {firstname} {lastname},
-		
-	Your order #{id_order} history
-	
-	We are processing your order.
+    Здравствуйте, {firstname} {lastname},
 
-	You can review this order and download your invoice from the "Order history" section of your account by clicking "My account" on our Website.
-	If you have guest account, you can follow your order at this page: {shop_url}guest-tracking.php
-	
+	Ваш заказ №{id_order}
+
+	Мы обрабатываем ваш заказ.
+
+	Вы можете просмотреть этот заказ и скачать счет-фактуру в нашем интернет-магазине, нажав "Мои заказы".
+
 	{shop_name} - {shop_url}
-
-
-
-	{shop_url} powered by PrestaShop™

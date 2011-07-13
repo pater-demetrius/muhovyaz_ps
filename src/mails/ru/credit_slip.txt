@@ -1,12 +1,9 @@
-Hi {firstname} {lastname},
+Здравствуйте, {firstname} {lastname},
 
-This is to inform you about the generation of a credit slip in your name from your order #{id_order}.
+Эта информация о генерации счета-фактуры на оплату заказа №{id_order} на Ваше имя.
 
-You can review this credit slip and download the invoice from the "Order follow" section of your account by clicking "My account" on our Website.
+Вы можете просмотреть квитанцию и скачать счет из раздела "Состоянии счетов" в Вашем аккаунте, кликнув "Мой аккаунт" на нашем сайте.
 
-Thank you for shopping at {shop_name}.
+Благодарим Вас за покупки в {shop_name}.
 
 {shop_name} - {shop_url}
-
-
-{shop_url} powered by PrestaShop™

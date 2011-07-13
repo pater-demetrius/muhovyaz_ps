@@ -1,12 +1,12 @@
-Your message has been correctly sent to our Customer Service.
+Ваше сообщение было отправлено в Службу поддержки.
 
-Your message:
+Сообщение:
 
 {message}
 
 
-We will answer as soon as possible.
+Мы ответим Вам в ближайшее время.
 
-Regards,
+С уважением,
 
-{shop_url} powered by PrestaShop™
+{shop_name} - {shop_url}

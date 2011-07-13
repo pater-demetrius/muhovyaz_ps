@@ -1,11 +1,7 @@
-Hi,
-		
-New log alert
-	
-Unfortunately, new log alert message has been saved.
+Здравствуйте,
 
-You can check this on your Back office > Tools > Log on our Website.
-		
+В лог помещено новое сообщение
+
+Вы можете проверить это в Back office > Tools > Log на нашем Веб-сайте.
+
 {shop_name} - {shop_url}
-
-{shop_url} powered by PrestaShop™

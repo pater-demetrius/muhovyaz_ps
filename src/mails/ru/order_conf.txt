@@ -1,30 +1,24 @@
-﻿Hello {firstname} {lastname}, thank you for your order on {shop_name}!
+﻿Здравствуйте, {firstname} {lastname}, благодарим вас за заказ!
 
-Order details
+Детали заказа
 
-	Order: {order_name} placed on {date}
-	Payment: {payment}
+	Заказ: {order_name} добавлен {date}
+	Способ оплаты: {payment}
 
-	Products: {total_products}
-	Discounts: {total_discounts}
-	Shipping: {total_shipping}
-	Gift-wrapping: {total_wrapping}
-	Total paid: {total_paid}
+	Итого: {total_products}
+	Скидки: {total_discounts}
+	Доставка: {total_shipping}
+	Итого к оплате: {total_paid}
 
 
-Shipping
+Доставка
 
-	Carrier: {carrier}
+	Способ доставки: {carrier}
 
-	Delivery address:
+	Адрес доставки:
 
 	{delivery_block_txt}
 
-	Billing address:
+Вы можете просмотреть этот заказ и скачать счет-фактуру в нашем интернет-магазине, нажав "Мои заказы".
 
-	{invoice_block_txt}
-
-You can review this order and download your invoice from the "Order history" section of your account by clicking "My account" on our Website. 
-If you have a guest account, you can follow your order at this page: {shop_url}guest-tracking.php
-
-{shop_url} powered by PrestaShop™
+{shop_name} - {shop_url}

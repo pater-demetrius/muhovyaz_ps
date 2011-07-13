@@ -1,11 +1,13 @@
-You have received a message from a customer via your shop: {shop_name}
+Здравствуйте, {firstname} {lastname},
 
-Details of message:
+Вы получили сообщение от клиента Вашего интернет-магазина: {shop_name}
 
-E-mail address: {email}
+E-mail: {email}
 
-Message:
+Сообщение:
 
 {message}
 
-{shop_url} powered by PrestaShop™
+
+
+{shop_name} - {shop_url}

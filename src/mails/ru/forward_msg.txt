@@ -1,4 +1,4 @@
-{employee} wanted to forward this chat to you.
-Comment: {comment}
- 
+{employee} ожидает Вашего ответа.
+Комментарий: {comment}
+
 {messages}

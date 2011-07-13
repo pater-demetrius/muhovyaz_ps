@@ -1,14 +1,13 @@
-	Hi {firstname} {lastname},
-		
-	Your order #{id_order} history
-	
-Unfortunately, one or more items on your order #{id_order} is currently out of stock. This may cause a slight delay in delivery. Please accept our apologies and rest assured that we are working hard to rectify this.
+Здравствуйте, {firstname} {lastname},
 
-You can review this order and download your invoice from the "Order history" section of your account by clicking "My account" on our Website.
-If you have guest account, you can follow your order at this page: {shop_url}guest-tracking.php
-		
-	{shop_name} - {shop_url}
+Ваш заказ №{id_order}
+
+К сожалению, один или более пунктов в Вашем заказе №{id_order} к настоящему времени не доступен.
+Это может вызвать легкую задержку в доставке.
+Пожалуйста примите наши извинения.
 
 
+Вы можете просмотреть этот заказ и скачать счет-фактуру в нашем интернет-магазине, нажав "Мои заказы".
 
-	{shop_url} powered by PrestaShop™
+
+{shop_url}
