@@ -35,6 +35,7 @@ class AdminOrders extends AdminTab
 	 	$this->className = 'Order';
 	 	$this->view = true;
 		$this->colorOnBackground = true;
+		$this->delete = true;
 	 	$this->_select = '
 			a.id_order AS id_pdf,
 			CONCAT(LEFT(c.`firstname`, 1), \'. \', c.`lastname`) AS `customer`,
